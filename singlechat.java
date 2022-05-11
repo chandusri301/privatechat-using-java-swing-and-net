@@ -1,3 +1,6 @@
+/* complie in Command prompt using command "javac singlechat.java"
+and you can open project using command "java singlechat"--->for server application 
+"java singlechat local"--->for client chat*/ 
 import java.io.*;
 import java.net.*;
 import javax.swing.*;
